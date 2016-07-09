@@ -1,2 +1,2 @@
 # ACcontroller
-AC power supply cintroller 
+AC power supply controller 
