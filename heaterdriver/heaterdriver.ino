@@ -53,7 +53,7 @@ bool inMenu = false;
 int flameSensorValue = 0; 
 float tempSensorValue = 0;
 float tempMin = 20.0; 
-float tempMax = 35.0; 
+float tempMax = 34.0; 
 
 void timerIsr() {
   encoder->service();
